@@ -1,0 +1,24 @@
+{
+  "name": "durandal-demo-record-not-found",
+  "version": "0.0.0",
+  "description": "This is a demo showing how to handle a situation using Durandal framework where a module's `activate()` method loads a record from the database, and you want to display a \"not found\" page while retaining the original URL.",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-connect": "^0.11.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leftclickben/durandal-demo-record-not-found.git"
+  },
+  "author": "Ben New <ben@leftclick.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leftclickben/durandal-demo-record-not-found/issues"
+  },
+  "homepage": "https://github.com/leftclickben/durandal-demo-record-not-found"
+}

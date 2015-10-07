@@ -1,0 +1,12 @@
+{
+  "name": "durandal-demo-record-not-found",
+  "version": "0.0.0",
+  "homepage": "https://github.com/leftclickben/durandal-demo-record-not-found",
+  "authors": [
+    "Ben New <ben@leftclick.com.au>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "durandal": "~2.1.0"
+  }
+}
